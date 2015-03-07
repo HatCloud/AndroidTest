@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/filepersistencetest" />
             <option value="$PROJECT_DIR$/fragmentbestpractice" />
             <option value="$PROJECT_DIR$/fragmenttest" />
+            <option value="$PROJECT_DIR$/sharedpreferencestest" />
             <option value="$PROJECT_DIR$/ui" />
             <option value="$PROJECT_DIR$/uibestpractice" />
             <option value="$PROJECT_DIR$/uicustomviews" />
