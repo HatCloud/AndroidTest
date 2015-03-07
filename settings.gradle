@@ -1,1 +1,1 @@
-include ':app', ':ui', ':uicustomviews', ':uilistviewtest', ':uibestpractice', ':fragmenttest', ':fragmentbestpractice', ':broadcasttest', ':broadcasttest2', ':broadcastbestpractice', ':filepersistencetest', ':sharedpreferencestest'
+include ':app', ':ui', ':uicustomviews', ':uilistviewtest', ':uibestpractice', ':fragmenttest', ':fragmentbestpractice', ':broadcasttest', ':broadcasttest2', ':broadcastbestpractice', ':filepersistencetest', ':sharedpreferencestest', ':databasetest'
