@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/filepersistencetest/filepersistencetest.iml" filepath="$PROJECT_DIR$/filepersistencetest/filepersistencetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentbestpractice/fragmentbestpractice.iml" filepath="$PROJECT_DIR$/fragmentbestpractice/fragmentbestpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providertest/providertest.iml" filepath="$PROJECT_DIR$/providertest/providertest.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharedpreferencestest/sharedpreferencestest.iml" filepath="$PROJECT_DIR$/sharedpreferencestest/sharedpreferencestest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui/ui.iml" filepath="$PROJECT_DIR$/ui/ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/uibestpractice/uibestpractice.iml" filepath="$PROJECT_DIR$/uibestpractice/uibestpractice.iml" />
