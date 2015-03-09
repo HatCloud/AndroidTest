@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/broadcastbestpractice/broadcastbestpractice.iml" filepath="$PROJECT_DIR$/broadcastbestpractice/broadcastbestpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcasttest/broadcasttest.iml" filepath="$PROJECT_DIR$/broadcasttest/broadcasttest.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcasttest2/broadcasttest2.iml" filepath="$PROJECT_DIR$/broadcasttest2/broadcasttest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contacttest/contacttest.iml" filepath="$PROJECT_DIR$/contacttest/contacttest.iml" />
       <module fileurl="file://$PROJECT_DIR$/databasetest/databasetest.iml" filepath="$PROJECT_DIR$/databasetest/databasetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/filepersistencetest/filepersistencetest.iml" filepath="$PROJECT_DIR$/filepersistencetest/filepersistencetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentbestpractice/fragmentbestpractice.iml" filepath="$PROJECT_DIR$/fragmentbestpractice/fragmentbestpractice.iml" />
