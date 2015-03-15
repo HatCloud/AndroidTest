@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/notificationtest" />
             <option value="$PROJECT_DIR$/playaudiotest" />
             <option value="$PROJECT_DIR$/providertest" />
+            <option value="$PROJECT_DIR$/servicetest" />
             <option value="$PROJECT_DIR$/sharedpreferencestest" />
             <option value="$PROJECT_DIR$/smstest" />
             <option value="$PROJECT_DIR$/ui" />
