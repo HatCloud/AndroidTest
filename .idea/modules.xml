@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/filepersistencetest/filepersistencetest.iml" filepath="$PROJECT_DIR$/filepersistencetest/filepersistencetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentbestpractice/fragmentbestpractice.iml" filepath="$PROJECT_DIR$/fragmentbestpractice/fragmentbestpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networktest/networktest.iml" filepath="$PROJECT_DIR$/networktest/networktest.iml" />
       <module fileurl="file://$PROJECT_DIR$/notificationtest/notificationtest.iml" filepath="$PROJECT_DIR$/notificationtest/notificationtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/playaudiotest/playaudiotest.iml" filepath="$PROJECT_DIR$/playaudiotest/playaudiotest.iml" />
       <module fileurl="file://$PROJECT_DIR$/providertest/providertest.iml" filepath="$PROJECT_DIR$/providertest/providertest.iml" />
@@ -25,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/uibestpractice/uibestpractice.iml" filepath="$PROJECT_DIR$/uibestpractice/uibestpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/uicustomviews/uicustomviews.iml" filepath="$PROJECT_DIR$/uicustomviews/uicustomviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/uilistviewtest/uilistviewtest.iml" filepath="$PROJECT_DIR$/uilistviewtest/uilistviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webviewtest/webviewtest.iml" filepath="$PROJECT_DIR$/webviewtest/webviewtest.iml" />
     </modules>
   </component>
 </project>
