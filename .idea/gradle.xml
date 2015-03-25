@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/filepersistencetest" />
             <option value="$PROJECT_DIR$/fragmentbestpractice" />
             <option value="$PROJECT_DIR$/fragmenttest" />
+            <option value="$PROJECT_DIR$/locationtest" />
             <option value="$PROJECT_DIR$/networktest" />
             <option value="$PROJECT_DIR$/notificationtest" />
             <option value="$PROJECT_DIR$/playaudiotest" />
